@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://mrrakc.netlify.app/'
 languageCode = 'en-us'
-title = 'Mrrks'
+title = 'Mrrakc'
 theme = "PaperMod"
