@@ -1,4 +1,9 @@
-baseURL = 'https://mrrakc.netlify.app/'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Mrrakc'
 theme = "PaperMod"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  region = 'regions'
