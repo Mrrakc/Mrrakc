@@ -1,0 +1,21 @@
+
+baseURL: '/'
+languageCode: 'en-us'
+title: 'Mrrakc'
+theme: 'PaperMod'
+
+menu:
+  main:
+    - identifier: blog
+      name: blog
+      url: posts
+      weight: -100
+    - identifier: locations
+      name: locations
+      url: locations
+      weight: -90
+
+taxonomies:
+  category: 'categories'
+  tag: 'tags'
+  region: 'regions'
