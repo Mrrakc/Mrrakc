@@ -13,6 +13,12 @@ cover:
 draft: true
 ---
 
-| Name | Altitude | CHbak |
-| ---  | ---      | ---   |
-| ss   | www      | ww    |
+## Site Information
+
+| Range | Altitude | Difficulty |
+| --- | --- | --- |
+| - | - | - |
+
+## How to get there ?
+
+## References
