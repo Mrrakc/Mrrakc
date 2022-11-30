@@ -33,6 +33,7 @@
     {{- partial "anchored_headings.html" .Content -}}
     {{- else }}{{ .Content }}{{ end }}
     {{- if (.Param "gmaps") }}
+      <h2>Site Location</h2>
       <iframe src="{{.Param "gmaps"}}" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     {{ end }}
   </div>
