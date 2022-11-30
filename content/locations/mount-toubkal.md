@@ -15,9 +15,13 @@ draft: false
 
 ## Site Information
 
-| Range | Altitude | Difficulty |
+| Range | Elevation | Difficulty |
 | --- | --- | --- |
 | High Atlas | 4167m | 4/5 |
+
+Standing at 4167m, Mount Toubkal is the highest peak in Morocco and North Africa, and 36th highest in the world. Toubkal is situated in Western part of the High Atlas mountain range in the Toubkal National Park.
+
+Toubkal is one of the most popular mountains in North africa. It attracts trekkers from all over the world. Also Toubkal peak is covered in snow for almost 3 seasons, which makes it perfect skiing.
 
 ## How to get there ?
 From Imlil you go up to the Armed Village where you start your Toubkal hike. After the Gendarme check, you start your climb to Refuge (Refuge des Mouflons or Refuge du toubkal by CAF), passing by Chamharouch. Once you are in the refuge you can stay for the night then continue to the summit from there.

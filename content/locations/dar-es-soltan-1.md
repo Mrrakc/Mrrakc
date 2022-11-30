@@ -25,11 +25,11 @@ draft: false
 The cave is situated on the western coast of Rabat on the regional route R322 in Hay El Fath (Yaakoub Al Mansour). The site is very close to Dar Naji. You can get there from Medina using the Bus, Grand Taxi (El Manal) or Tram + Taxi.
 
 ## References
-- [Découverte au site de Dar es-Soltan 1 à Rabat d’un outil en os vieux de 90 mille ans - mjcc](https://mjcc.gov.ma/fr/decouverte-au-site-de-dar-es-soltan-1-a-rabat-dun-outil-en-os-vieux-de-90-mille-ans/)
-- [Grotte Dar es-Soltan 1 - insap](https://insap.ac.ma/?p=1065)
-- [Les formations littorales de Dar Es Soltan (Rabat, Maroc)](https://www.researchgate.net/publication/277139366_Les_formations_littorales_de_Dar_Es_Soltan_Rabat_Maroc)
-- [90,000 year-old specialised bone technology in the Aterian Middle Stone Age of North Africa](https://www.researchgate.net/publication/328057750_90000_year-old_specialised_bone_technology_in_the_Aterian_Middle_Stone_Age_of_North_Africa)
-- [OSL dating of the Aterian levels at Dar es-Soltan I (Rabat, Morocco) and
+- [Article: Découverte au site de Dar es-Soltan 1 à Rabat d’un outil en os vieux de 90 mille ans - mjcc](https://mjcc.gov.ma/fr/decouverte-au-site-de-dar-es-soltan-1-a-rabat-dun-outil-en-os-vieux-de-90-mille-ans/)
+- [Article: Grotte Dar es-Soltan 1 - insap](https://insap.ac.ma/?p=1065)
+- [Research Paper: Les formations littorales de Dar Es Soltan (Rabat, Maroc)](https://www.researchgate.net/publication/277139366_Les_formations_littorales_de_Dar_Es_Soltan_Rabat_Maroc)
+- [Research Paper: 90,000 year-old specialised bone technology in the Aterian Middle Stone Age of North Africa](https://www.researchgate.net/publication/328057750_90000_year-old_specialised_bone_technology_in_the_Aterian_Middle_Stone_Age_of_North_Africa)
+- [Research Paper: OSL dating of the Aterian levels at Dar es-Soltan I (Rabat, Morocco) and
 implications for the dispersal of modern Homo sapiens](https://in-africa.org/wp-content/uploads/2012/12/Barton-et-al-2009-QSR-OSL-dating-of-Aterian-levels-at-Dar-es-Soltan-I.pdf)
-- [360 degree image from the inside of Dar Es Soltan 1 Cave](https://www.360cities.net/image/dar-es-soltan-1-morocco-cave-post-excavation-end-of-2012-season#136.45,35.15,110.0)
-- [360 degree image collection](https://www.alamy.com/360-degree-panoramic-view-of-dar-es-soltan-1-cave-environs-rabat-morocco-image219637926.html)
+- [Media: 360 degree image from the inside of Dar Es Soltan 1 Cave](https://www.360cities.net/image/dar-es-soltan-1-morocco-cave-post-excavation-end-of-2012-season#136.45,35.15,110.0)
+- [Media: 360 degree image collection](https://www.alamy.com/360-degree-panoramic-view-of-dar-es-soltan-1-cave-environs-rabat-morocco-image219637926.html)

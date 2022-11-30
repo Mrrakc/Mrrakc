@@ -22,7 +22,7 @@ draft: false
 Located just few meters from the Dar Es Soltan 1 cave, This cave is as important as the latter. It provided the oldest and most conserved Aterian Skull ever discoved to date.
 
 ## How to get there ?
-This cave is situated near [dar es soltan 1](locations/dar-es-soltan-1) and can be accessed in the same way.
+This cave is situated near [dar es soltan 1](/locations/dar-es-soltan-1) and can be accessed in the same way.
 
 ## References
 - [Grotte Dar es-Soltan 2 - insap](https://insap.ac.ma/?p=898)

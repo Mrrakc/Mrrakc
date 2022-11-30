@@ -7,7 +7,7 @@ regions: []
 tags: []
 gmaps: ""
 cover:
-  image: ""
+  image: "{{.Name}}.jpg"
   alt: "{{.Name}}"
   caption: "{{ replace .Name "-" " " | title }}"
 draft: true
@@ -15,7 +15,7 @@ draft: true
 
 ## Site Information
 
-| Range | Altitude | Difficulty |
+| Range | Elevation | Difficulty |
 | --- | --- | --- |
 | - | - | - |
 
