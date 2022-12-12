@@ -15,11 +15,24 @@ draft: true
 
 ## Site Information
 
-| City | Site History | Oldest Culture | Later Cultures | Features |
-| ---  | ---          | ---            | ---            | ---      |
-| -    | -            | -              | -              | -        |
+| City | Type | Collections |
+| ---  | ---  | ---         |
+| -    | -    | -           |
+
+### Hours
+
+| Days | Hours | State |
+| ---  | ---   | ---   |
+|      |       |       |
+
+### Prices
+
+| Category | price |
+| ---      | ---   |
+|          |       |
 
 ## How to get there ?
 
 ## References
+
 

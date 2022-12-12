@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 author: []
-categories: []
+categories: "Mountains"
 regions: []
 tags: []
 gmaps: ""
