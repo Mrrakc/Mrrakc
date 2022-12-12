@@ -7,13 +7,13 @@ regions: "Tanger Tetouan Al Hoceima"
 tags: ["Ethnography"]
 gmaps: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1622.6651941586415!2d-5.3639963!3d35.5702363!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd0b425a5c5fe793%3A0x178f238522fb39c4!2sEthnographic%20Museum!5e0!3m2!1sen!2sma!4v1670772128518!5m2!1sen!2sma"
 cover:
-  image: "/museum-ethnographic-bab-el-oqla.jpg"
-  alt: "museum-ethnographic-bab-el-oqla"
-  caption: "museum-ethnographic-bab-el-oqla"
+  image: "/museum-bab-el-oqla.jpg"
+  alt: "museum-bab-el-oqla"
+  caption: "museum-bab-el-oqla"
 draft: false
 ---
 
-## Site Information
+## General Information
 
 | City    | Type         | Collections                                                              |
 | ---     | ---          | ---                                                                      |

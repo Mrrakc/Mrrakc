@@ -7,13 +7,13 @@ regions: []
 tags: []
 gmaps: ""
 cover:
-  image: ""
+  image: "{{.Name}}.jpg"
   alt: "{{.Name}}"
   caption: "{{ replace .Name "-" " " | title }}"
 draft: true
 ---
 
-## Site Information
+## General Information
 
 | City | Site History | Oldest Culture | Later Cultures | Features |
 | ---  | ---          | ---            | ---            | ---      |
