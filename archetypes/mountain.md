@@ -13,7 +13,7 @@ cover:
 draft: true
 ---
 
-## Site Information
+## General Information
 
 | Range | Elevation | Difficulty |
 | --- | --- | --- |

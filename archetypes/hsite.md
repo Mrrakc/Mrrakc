@@ -13,7 +13,7 @@ cover:
 draft: true
 ---
 
-## Site Information
+## General Information
 
 | City | Site History | Oldest Culture | Later Cultures | Features |
 | ---  | ---          | ---            | ---            | ---      |

@@ -13,7 +13,7 @@ cover:
 draft: true
 ---
 
-## Site Information
+## General Information
 
 | Depth | Surface Area | Elevation | Type |
 | ---   | ---          | ---       |      |

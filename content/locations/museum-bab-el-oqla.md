@@ -13,7 +13,7 @@ cover:
 draft: false
 ---
 
-## Site Information
+## General Information
 
 | City    | Type         | Collections                                                              |
 | ---     | ---          | ---                                                                      |
