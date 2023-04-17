@@ -3,6 +3,11 @@ languageCode: 'en-us'
 title: 'Mrrakc'
 theme: 'PaperMod'
 
+
+minify:
+    disableXML: true
+    # minifyOutput: true
+
 menu:
   main:
     - identifier: categories
