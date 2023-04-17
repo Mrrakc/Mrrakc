@@ -2,6 +2,7 @@ baseURL: "/"
 languageCode: 'en-us'
 title: 'Mrrakc'
 theme: 'PaperMod'
+description: 'Sharing the love for Morocco with the world'
 
 
 minify:

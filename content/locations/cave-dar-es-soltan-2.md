@@ -7,7 +7,7 @@ regions: "Rabat-Salé-Kénitra"
 tags: ["Paleolithic", "Aterian", "Neolitic"]
 gmaps: "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3308.5442053894094!2d-6.900237923756942!3d33.97855292161681!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xda76d3e70927ce7%3A0xa367b415d1b89942!2sDar%20Es%20Soltan%202%20Cave!5e0!3m2!1sen!2sma!4v1669765104033!5m2!1sen!2sma"
 cover:
-  image: "/cave-dar-es-soltan-2.jpg"
+  image: "/cave-dar-es-soltan-2.webp"
   alt: "cave-dar-es-soltan-2"
   caption: "Cave Dar Es Soltan 2"
 draft: false
