@@ -17,9 +17,7 @@ Whenever I met new friends from all over the world, I find myself repeating this
 ## The lost history
 Sale is undeniably one of the oldest cities in Morocco, boasting a rich historical legacy. Situated alongside Chellah (Sala Colonia) across the Bouregreg River, Sale held great significance as a vital port for both the Phoenicians and the subsequent Roman occupants.
 
-Throughout its existence, the city has experienced a cycle of construction, destruction, and subsequent rebuilding, making it challenging to uncover concrete evidence of its pre-Islamic past. Nonetheless, historical accounts affirm Sale's importance as a prominent Atlantic port that attracted various civilizations, including the Romans and later the Umayyads.
-
-## The inception ~ 10th century
+Throughout its existence, the city has experienced a cycle of construction, destruction, and subsequent rebuilding, making it challenging to uncover concrete evidence of its pre-Islamic past. Nonetheless, historical accounts affirm Sale's importance as a prominent Atlantic port that attracted various civilizations, including the Romans and later the Umayyads. ## The inception ~ 10th century
 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_hhj9WB4_Q0SnESuknw3UgCrAfgmoT4&ehbc=2E312F" width="100%" height="480"></iframe>
 
@@ -34,6 +32,7 @@ Adding to all of that, two members of the founding Abou Achara family (Sidi Abde
 
 ## The Rise
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1rJXpD1bPOZ-5SriLhcPqwzZ-Qe456LI&ehbc=2E312F" width="100%" height="480"></iframe>
+
 During the reign of the Almoravid and Almohad dynasties, Sale reached its pinnacle of importance in history.
 
 After the Almoravids conquered the city, it experienced significant expansion with reinforced walls, the construction of new mosques, and overall improvements to its infrastructure.
@@ -77,3 +76,39 @@ During the prosperous Marinid era, a prominent figure was Ahmed Ben Acher, a ren
 ## The City Walls and Fortifications
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1I-Tv6jA8EExObJb27QBLywlHLbCMcR4&ehbc=2E312F" width="100%" height="480"></iframe>
 
+The Medina of Sale boasts one of the oldest walls in Morocco, dating back to the Almoravid era, and possibly even earlier.
+
+When Sultan Yusuf Ibn Tachfin arrived in Sale, he initiated the construction of the city walls.
+
+However, over a century later, during the Almohad Caliph Abd al-Mu'min Ibn Ali al-Kumi's conquest of Sale, the walls were destroyed after facing significant resistance. Later, Yaakub Al-Mansour, Abd al-Mu'min's grandson, reconstructed the Eastern and Northern walls, which are now known as the Almoravid walls.
+
+Subsequently, following a Castilian attack on Sale, Sultan Abu Yusuf Yaakub of the Marinid dynasty completed the city's defenses by building the Southern and Western sections of the wall.
+
+Following is the list of 7 most known gates of Sale:
+- Almoravid walls:
+    - Bab Lakhmiss: Previously known as Bab Fes as it served as the entrance for people heading to Fez. The name was changed when Souk Lakhmiss (Thursday Market) began taking place in front of the gate.
+    - Bab Sebta: Located on the northern wall, this gate acquired its name because it was used by people starting their journeys to Sebta (Ceuta).
+    - Bab Chaafa: Situated at the westernmost point of the northern walls.
+
+- Marinid walls:
+    - Bab Maalqa: A small gate found in the southern part of the city. There are various stories regarding its name, but the most widely accepted explanation is that it was used as the starting point for trips to Malaga in Andalusia.
+    - Bab Jdid: Bab Jdid is a comparatively more recent gate that was constructed and opened during the rule of Moulay Abderahman Ibn Hisham (1822-1859). This gate primarily functioned as a storage area during the previous century.
+    - Bab Dar Sinaâ: This gate obtained its name due to its function as an arsenal and weapons factory for pirates.
+    - Bab Lamrissa: One of the largest gates in Morocco, this gate was situated near the lands that were flooded by the waters of Bouregreg. Consequently, ships would dock in front of it, earning it the name Bab al-Merissa, meaning "the harbor gate."
+
+In addition to the City wall features 5 Bastions and 2 Saqalas:
+
+- Borj Mthemen (Almohad)
+- Borj Eddoumoue (Marinid)
+- Borj El-Mellah (Marinid)
+- Borj Erroukni (Alaouite)
+- Borj Bab Sebta (Alaouite)
+- Old Saqala (Alaouite)
+- New Saqala (Alaouite)
+
+Throughout various periods, these fortifications and bastions have played a significant role in safeguarding and protecting the city's strategic location against foreign invasions.
+
+## The Dark ages
+
+
+## The Renaissance
