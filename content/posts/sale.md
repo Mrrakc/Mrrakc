@@ -12,7 +12,7 @@ cover:
 
 > You know Rabat? I live in the city on the other side of the river.
 
-Whenever I met new friends from all over the world, I find myself repeating this sentence. The reason whym I've made the decision to guide you through the streets of Sale's Medina and tell you the tales each corner has to tell.
+Whenever I met new friends from all over the world, I find myself repeating this sentence. The reason why I've made the decision to guide you through the streets of Sale's Medina and tell you the tales each corner has to tell.
 
 ## The lost history
 Sale is undeniably one of the oldest cities in Morocco, boasting a rich historical legacy. Situated alongside Chellah (Sala Colonia) across the Bouregreg River, Sale held great significance as a vital port for both the Phoenicians and the subsequent Roman occupants.
@@ -135,17 +135,26 @@ Sultane Ahmed Almansur entrusted him with the responsibility of organizing the C
 
 ## The Corsair Republic of Sale
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_vWfX5E5S1lyClsGyWIl8wRrrpdslwA&ehbc=2E312F" width="100%" height="480"></iframe>
+
 Sale holds a unique place in Moroccan history as one of the few cities that declared itself an independent city or republic, rejecting the rule of the Sultan.
 
-The fall of the Granada Emirate in 1492 was a significant event that influenced this chapter of Sale's history, along with the passing of the great Saadian Sherif Ahmed Al-Mansur. When the Castilians took control of the last Emirate in Andalusia (Granada), they began to forcibly deport Muslim Moriscos from Andalusia to the North African coasts. Around the early 17th century (approximately 1609-1614 CE), Sale and Rabat received the final group of Moriscos from a small town in Western Spain called Hornachos.
+The fall of the Granada Emirate in 1492 was a significant event that influenced this chapter of Sale's history, along with the passing of the great Saadian Sherif Ahmed Al-Mansur.
 
-Due to the large influx of Morisco immigrants and the significant cultural differences between them and the people of Sale, most of them chose to settle in the southern part of the river and built the "Kasbah of Sale," now known as the "Udayas' Kasbah," on the remains of the abandoned Almohad Kasbah. As more immigrants arrived, they began to occupy Rabat, forming three separate provinces: Kasbah of Sale(Udayas), New Sale (Rabat) and Old Sale (Actual Sale).
+When the Castilians took control of the last Emirate in Andalusia (Granada), they began to forcibly deport Muslim Moriscos from Andalusia to the North African coasts.
+
+Around the early 17th century (approximately 1609-1614 CE), Sale and Rabat received the final group of Moriscos from a small town in Western Spain called Hornachos.
+
+Due to the large influx of Morisco immigrants and the significant cultural differences between them and the people of Sale, most of them chose to settle in the southern part of the river and built the "Kasbah of Sale," now known as the "Udayas' Kasbah," on the remains of the abandoned Almohad Kasbah.
+
+As more immigrants arrived, they began to occupy Rabat, forming three separate provinces: Kasbah of Sale(Udayas), New Sale (Rabat) and Old Sale (Actual Sale).
 
 In 1614, Brahim Vargas, also known as Brahim Bargash, a Hornachos pirate, became the first governor of the Corsair Republic of Salé, which included the three provinces. With the support of his fellow Hornachos, they used the money brought from Andalusia to build and acquire ships and artillery.
 
 During this era, Sale became one of the most formidable and notorious pirate fleets in history. It amassed wealth and gained recognition from many European states, particularly under the leadership of Grand Admiral Murad Reis, who led the Slaoui Corsair fleet to launch attacks on distant locations such as Scotland and the Scandinavian region.
 
-In 1927, the Moriscos, together with the newly appointed Sidi M'hamed al-Ayachi, declared the complete independence of the Republic of Sale from the Saadi central power in Marrakech. They expelled the Sherif's governor and ceased paying taxes to the government. During this period, the Republic of Sale gained international recognition as an independent republic, negotiating treaties with foreign countries and being governed by an elected Diwan comprising Hornachos and other Moriscos.
+In 1927, the Moriscos, together with the newly appointed Sidi M'hamed al-Ayachi, declared the complete independence of the Republic of Sale from the Saadi central power in Marrakech. They expelled the Sherif's governor and ceased paying taxes to the government.
+
+During this period, the Republic of Sale gained international recognition as an independent republic, negotiating treaties with foreign countries and being governed by an elected Diwan comprising Hornachos and other Moriscos.
 
 Despite the influence exerted by the Zawiya Dila'iya, the Republic of Sale maintained its independence from any central government. However, this period of independence came to an end when Moulay Rashid, the Sultane who laid the foundation of the Alaouite Dynasty, defeated the Dilaites and brought an end to the republic's autonomy.
 
