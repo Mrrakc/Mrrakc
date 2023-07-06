@@ -17,11 +17,16 @@ Whenever I met new friends from all over the world, I find myself repeating this
 ## The lost history
 Sale is undeniably one of the oldest cities in Morocco, boasting a rich historical legacy. Situated alongside Chellah (Sala Colonia) across the Bouregreg River, Sale held great significance as a vital port for both the Phoenicians and the subsequent Roman occupants.
 
-Throughout its existence, the city has experienced a cycle of construction, destruction, and subsequent rebuilding, making it challenging to uncover concrete evidence of its pre-Islamic past. Nonetheless, historical accounts affirm Sale's importance as a prominent Atlantic port that attracted various civilizations, including the Romans and later the Umayyads. ## The inception ~ 10th century
+Throughout its existence, the city has experienced a cycle of construction, destruction, and subsequent rebuilding, making it challenging to uncover concrete evidence of its pre-Islamic past. Nonetheless, historical accounts affirm Sale's importance as a prominent Atlantic port that attracted various civilizations, including the Romans and later the Umayyads.
 
+## The inception ~ 10th century
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_hhj9WB4_Q0SnESuknw3UgCrAfgmoT4&ehbc=2E312F" width="100%" height="480"></iframe>
 
-The origins of modern-day Sale trace back to the era of Tamim ibn Ziri's (From Banu Ifran) rule over the Kingdom of Chellah, attributed to the establishment of its foundations. However, it is widely acknowledged that the rise of Sale, as we know it today, is primarily associated with the arrival of the Banu Achra's Family from Andalusia. They settled on the western bank of the Bouregreg River, near the city's grand mosque [1], which was initially initiated by Tamim ibn Ziri. This marked the beginnings of the Tala'a neighborhood (Jemaa neighborhood)[2], which served as a focal point for their settlement. Over time, Sale expanded with the emergence of additional neighborhoods such as Zenata[3], L'Blida[4], and Laalou[5].
+The origins of modern-day Sale trace back to the era of Tamim ibn Ziri's (From Banu Ifran) rule over the Kingdom of Chellah, attributed to the establishment of its foundations.
+
+However, it is widely acknowledged that the rise of Sale, as we know it today, is primarily associated with the arrival of the Banu Achra's Family from Andalusia. They settled on the western bank of the Bouregreg River, near the city's grand mosque [1], which was initially initiated by Tamim ibn Ziri.
+
+This marked the beginnings of the Tala'a neighborhood (Jemaa neighborhood)[2], which served as a focal point for their settlement. Over time, Sale expanded with the emergence of additional neighborhoods such as Zenata[3], L'Blida[4], and Laalou[5].
 
 ![Aqba't El Mohandiss](/aqbat-elmohandiss.jpeg)
 
@@ -39,12 +44,16 @@ After the Almoravids conquered the city, it experienced significant expansion wi
 
 When the Almohads emerged victorious over the Almoravids in Marrakech, they faced challenges in persuading Sale to join their new rule. After fierce battles, they finally entered the city, demolishing the south-eastern walls and gates.
 
-Despite these upheavals, Sale continued to maintain its paramount importance, solidifying its position as one of the region's most critical cities, second only to the capital, Marrakech. It played a pivotal role as a strategic hub for Jihad, where troops diligently prepared themselves before embarking on campaigns to the north in Andalusia or east to Ifriquia (present-day Tunisia and Libya). The significance of these events led to the birth of a new city, which would serve this purpose - Rabat or Erribat, meaning "fortification".
+Despite these upheavals, Sale continued to maintain its paramount importance, solidifying its position as one of the region's most critical cities, second only to the capital, Marrakech.
+
+It played a pivotal role as a strategic hub for Jihad, where troops diligently prepared themselves before embarking on campaigns to the north in Andalusia or east to Ifriquia (present-day Tunisia and Libya). The significance of these events led to the birth of a new city, which would serve this purpose - Rabat or Erribat, meaning "fortification".
 ![Sale's ancient mosques](/sale-ancient-mosques.jpeg)
 
 Indeed, while Sale flourished during the Almoravid dynasty, it truly reached its peak during the Almohad reign, particularly under the rule of Abu Yusuf Yaaqub Al-Mansour.
 
-During the reign of Yaaqub Al-Mansour, the construction of the iconic Great Mosque of Sale (Second largest Mosque in the Maghreb to AlKoutoubia) marked a significant milestone in the city's architectural history. This magnificent mosque not only served as a place of worship but also included a school and an innovative space for ablution (Wudu') that was ahead of its time. The mosque stood as a testament to Sale's architectural grandeur and the visionary approach of Al-Mansour.
+During the reign of Yaaqub Al-Mansour, the construction of the iconic Great Mosque of Sale (Second largest Mosque in the Maghreb to AlKoutoubia) marked a significant milestone in the city's architectural history.
+
+This magnificent mosque not only served as a place of worship but also included a school and an innovative space for ablution (Wudu') that was ahead of its time. The mosque stood as a testament to Sale's architectural grandeur and the visionary approach of Al-Mansour.
 ![Sale's Great Mosque](/sale-great-mosque.jpeg)
 
 Furthermore, Al-Mansour's visionary initiatives extended to the improvement of the city's water system. By tapping into the abundant water sources from the nearby Maamoura forest, he enhanced the city's access to clean water, providing a vital resource for its residents.
@@ -63,7 +72,9 @@ Furthermore, Abu Yusuf Yaaqub constructed the western wall of Sale, including a 
 
 ![Sale Marinid fortifications](/sale-marinid-fortifications.jpeg)
 
-During the Marinid era, Sale experienced its heyday, particularly under the rule of two prominent Sultans, Abu Al Hassan Ibn Othmane and Abu Inan Faris, who bestowed special attention upon the city. Abu Al Hassan, during his reign, oversaw the construction of a remarkable school near the grand mosque, believed by some to have been built upon the ruins of the famous Bani Achra Palace. Furthermore, he extended the Lakouas Walls, stretching over 14 kilometers, which served the purpose of transporting water from Maamoura to the city center.
+During the Marinid era, Sale experienced its heyday, particularly under the rule of two prominent Sultans, Abu Al Hassan Ibn Othmane and Abu Inan Faris, who bestowed special attention upon the city.
+
+Abu Al Hassan, during his reign, oversaw the construction of a remarkable school near the grand mosque, believed by some to have been built upon the ruins of the famous Bani Achra Palace. Furthermore, he extended the Lakouas Walls, stretching over 14 kilometers, which served the purpose of transporting water from Maamoura to the city center.
 
 Continuing the legacy of his father, Abu Inan Faris undertook significant projects as well. He established a Maristan, known as the "Strange School," which served as both a hospital for the sick and a school of medicine. The Maristan attracted the best doctors in the city, further enhancing the healthcare system. Additionally, Abu Inan Faris constructed Zaouiat Annoussak outside the city, providing accommodation for visitors and travelers passing through Sale.
 
@@ -71,7 +82,9 @@ Under the reign of these two Sultans, the city experienced a cultural and scient
 
 ![Sale Marinid schools](/sale-marinid-schools.jpeg)
 
-During the prosperous Marinid era, a prominent figure was Ahmed Ben Acher, a renowned theologian and Sufi. Originally from Andalusia, he relocated to Sale after the passing of his teacher Abdellah El Yabouri in Chellah. Even today, Sidi Ben Acher holds great significance for the people of Sale, and many continue to visit his mausoleum seeking blessings (Baraka).
+During the prosperous Marinid era, a prominent figure was Ahmed Ben Acher, a renowned theologian and Sufi. Originally from Andalusia, he relocated to Sale after the passing of his teacher Abdellah El Yabouri in Chellah.
+
+Even today, Sidi Ben Acher holds great significance for the people of Sale, and many continue to visit his mausoleum seeking blessings (Baraka).
 
 ## The City Walls and Fortifications
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1I-Tv6jA8EExObJb27QBLywlHLbCMcR4&ehbc=2E312F" width="100%" height="480"></iframe>
@@ -85,30 +98,59 @@ However, over a century later, during the Almohad Caliph Abd al-Mu'min Ibn Ali a
 Subsequently, following a Castilian attack on Sale, Sultan Abu Yusuf Yaakub of the Marinid dynasty completed the city's defenses by building the Southern and Western sections of the wall.
 
 Following is the list of 7 most known gates of Sale:
-- Almoravid walls:
-    - Bab Lakhmiss: Previously known as Bab Fes as it served as the entrance for people heading to Fez. The name was changed when Souk Lakhmiss (Thursday Market) began taking place in front of the gate.
-    - Bab Sebta: Located on the northern wall, this gate acquired its name because it was used by people starting their journeys to Sebta (Ceuta).
-    - Bab Chaafa: Situated at the westernmost point of the northern walls.
+- **Almoravid walls**:
+    - **Bab Lakhmiss**: Previously known as Bab Fes as it served as the entrance for people heading to Fez. The name was changed when Souk Lakhmiss (Thursday Market) began taking place in front of the gate.
+    - **Bab Sebta**: Located on the northern wall, this gate acquired its name because it was used by people starting their journeys to Sebta (Ceuta).
+    - **Bab Chaafa**: Situated at the westernmost point of the northern walls.
 
-- Marinid walls:
-    - Bab Maalqa: A small gate found in the southern part of the city. There are various stories regarding its name, but the most widely accepted explanation is that it was used as the starting point for trips to Malaga in Andalusia.
-    - Bab Jdid: Bab Jdid is a comparatively more recent gate that was constructed and opened during the rule of Moulay Abderahman Ibn Hisham (1822-1859). This gate primarily functioned as a storage area during the previous century.
-    - Bab Dar Sinaâ: This gate obtained its name due to its function as an arsenal and weapons factory for pirates.
-    - Bab Lamrissa: One of the largest gates in Morocco, this gate was situated near the lands that were flooded by the waters of Bouregreg. Consequently, ships would dock in front of it, earning it the name Bab al-Merissa, meaning "the harbor gate."
+- **Marinid walls**:
+    - **Bab Maalqa**: A small gate found in the southern part of the city. There are various stories regarding its name, but the most widely accepted explanation is that it was used as the starting point for trips to Malaga in Andalusia.
+    - **Bab Jdid**: Bab Jdid is a comparatively more recent gate that was constructed and opened during the rule of Moulay Abderahman Ibn Hisham (1822-1859). This gate primarily functioned as a storage area during the previous century.
+    - **Bab Dar Sinaâ**: This gate obtained its name due to its function as an arsenal and weapons factory for pirates.
+    - **Bab Lamrissa**: One of the largest gates in Morocco, this gate was situated near the lands that were flooded by the waters of Bouregreg. Consequently, ships would dock in front of it, earning it the name Bab al-Merissa, meaning "the harbor gate."
 
 In addition to the City wall features 5 Bastions and 2 Saqalas:
 
-- Borj Mthemen (Almohad)
-- Borj Eddoumoue (Marinid)
-- Borj El-Mellah (Marinid)
-- Borj Erroukni (Alaouite)
-- Borj Bab Sebta (Alaouite)
+- Borj Mthemen Bastion (Almohad)
+- Borj Eddoumoue Bastion (Marinid)
+- Borj El-Mellah Bastion (Marinid)
+- Borj Erroukni Bastion (Alaouite)
+- Borj Bab Sebta Bastion (Alaouite)
 - Old Saqala (Alaouite)
 - New Saqala (Alaouite)
 
 Throughout various periods, these fortifications and bastions have played a significant role in safeguarding and protecting the city's strategic location against foreign invasions.
 
 ## The Dark ages
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1nxaqgSy2nogqyI2amcxrdgGzB3QCURQ&ehbc=2E312F" width="100%" height="480"></iframe>
+After the downfall of the Marinid dynasty, Yahya I of the Wattasid, who served as the governor of Sale, relocated to Fes in order to assume control of the royal palace. This marked the beginning of a turbulent period in Morocco's history.
 
+Unfortunately, little is known about this era, even after the Saadi's rose to power. Which directed its attention more towards Marrakech and the southern regions of the country.
+
+During this time, the cultural and spiritual significance of Sale diminished, but it continued to thrive as a bustling commercial center and one of the major ports in the country.
+
+The conclusion of this era was characterized by the presence of Sidi Abdellah Ben Hassoun, one of the most influential saints in the history of Sale. He served as a teacher and Khatib (preacher) in the Great Mosque of Sale, and he was revered as a sacred figure by the people of Sale, as well as by other local saints and scholars.
+
+Sultane Ahmed Almansur entrusted him with the responsibility of organizing the Candles Convoy of Sale which is candlelit celebration in commemoration of the Prophet's birthday. This annual celebration continues to be observed to this day.
+
+## The Corsair Republic of Sale
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1_vWfX5E5S1lyClsGyWIl8wRrrpdslwA&ehbc=2E312F" width="100%" height="480"></iframe>
+Sale holds a unique place in Moroccan history as one of the few cities that declared itself an independent city or republic, rejecting the rule of the Sultan.
+
+The fall of the Granada Emirate in 1492 was a significant event that influenced this chapter of Sale's history, along with the passing of the great Saadian Sherif Ahmed Al-Mansur. When the Castilians took control of the last Emirate in Andalusia (Granada), they began to forcibly deport Muslim Moriscos from Andalusia to the North African coasts. Around the early 17th century (approximately 1609-1614 CE), Sale and Rabat received the final group of Moriscos from a small town in Western Spain called Hornachos.
+
+Due to the large influx of Morisco immigrants and the significant cultural differences between them and the people of Sale, most of them chose to settle in the southern part of the river and built the "Kasbah of Sale," now known as the "Udayas' Kasbah," on the remains of the abandoned Almohad Kasbah. As more immigrants arrived, they began to occupy Rabat, forming three separate provinces: Kasbah of Sale(Udayas), New Sale (Rabat) and Old Sale (Actual Sale).
+
+In 1614, Brahim Vargas, also known as Brahim Bargash, a Hornachos pirate, became the first governor of the Corsair Republic of Salé, which included the three provinces. With the support of his fellow Hornachos, they used the money brought from Andalusia to build and acquire ships and artillery.
+
+During this era, Sale became one of the most formidable and notorious pirate fleets in history. It amassed wealth and gained recognition from many European states, particularly under the leadership of Grand Admiral Murad Reis, who led the Slaoui Corsair fleet to launch attacks on distant locations such as Scotland and the Scandinavian region.
+
+In 1927, the Moriscos, together with the newly appointed Sidi M'hamed al-Ayachi, declared the complete independence of the Republic of Sale from the Saadi central power in Marrakech. They expelled the Sherif's governor and ceased paying taxes to the government. During this period, the Republic of Sale gained international recognition as an independent republic, negotiating treaties with foreign countries and being governed by an elected Diwan comprising Hornachos and other Moriscos.
+
+Despite the influence exerted by the Zawiya Dila'iya, the Republic of Sale maintained its independence from any central government. However, this period of independence came to an end when Moulay Rashid, the Sultane who laid the foundation of the Alaouite Dynasty, defeated the Dilaites and brought an end to the republic's autonomy.
+
+> In Salé, the division of the spoils was much more communistic, and the regulation of behaviour was anarchistic, leading Lamborne Wilson to conclude that, though not a pure pirate utopia, ‘it was the only state ever founded on these principles’ (1995: 146) -- The Republic of Salé (1627–1641/1666); analternative pirate organization model?
 
 ## The Renaissance
+
+
