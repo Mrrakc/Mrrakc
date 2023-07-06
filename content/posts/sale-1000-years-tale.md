@@ -1,5 +1,5 @@
 ---
-title: "Sale - the 1000 years tale"
+title: "Sale - a 1000 years tale"
 date: 2022-10-27T22:49:15+01:00
 draft: false
 ShowToc: true
@@ -129,6 +129,8 @@ Unfortunately, little is known about this era, even after the Saadi's rose to po
 
 During this time, the cultural and spiritual significance of Sale diminished, but it continued to thrive as a bustling commercial center and one of the major ports in the country.
 
+![Sidi Abdellah Ben Hassoun](/sale-sidi-abdellah-ben-hassoun.jpeg)
+
 The conclusion of this era was characterized by the presence of Sidi Abdellah Ben Hassoun, one of the most influential saints in the history of Sale. He served as a teacher and Khatib (preacher) in the Great Mosque of Sale, and he was revered as a sacred figure by the people of Sale, as well as by other local saints and scholars.
 
 Sultane Ahmed Almansur entrusted him with the responsibility of organizing the Candles Convoy of Sale which is candlelit celebration in commemoration of the Prophet's birthday. This annual celebration continues to be observed to this day.
@@ -144,22 +146,76 @@ When the Castilians took control of the last Emirate in Andalusia (Granada), the
 
 Around the early 17th century (approximately 1609-1614 CE), Sale and Rabat received the final group of Moriscos from a small town in Western Spain called Hornachos.
 
+![Udayas Kasbah](/sale-udayas-kasbah.jpeg)
+
 Due to the large influx of Morisco immigrants and the significant cultural differences between them and the people of Sale, most of them chose to settle in the southern part of the river and built the "Kasbah of Sale," now known as the "Udayas' Kasbah," on the remains of the abandoned Almohad Kasbah.
 
-As more immigrants arrived, they began to occupy Rabat, forming three separate provinces: Kasbah of Sale(Udayas), New Sale (Rabat) and Old Sale (Actual Sale).
+As more immigrants arrived, they began to occupy Rabat, forming three separate sister province (or republics): Kasbah of Sale(Udayas), New Sale (Rabat) and Old Sale (Actual Sale).
 
 In 1614, Brahim Vargas, also known as Brahim Bargash, a Hornachos pirate, became the first governor of the Corsair Republic of Salé, which included the three provinces. With the support of his fellow Hornachos, they used the money brought from Andalusia to build and acquire ships and artillery.
 
 During this era, Sale became one of the most formidable and notorious pirate fleets in history. It amassed wealth and gained recognition from many European states, particularly under the leadership of Grand Admiral Murad Reis, who led the Slaoui Corsair fleet to launch attacks on distant locations such as Scotland and the Scandinavian region.
 
-In 1927, the Moriscos, together with the newly appointed Sidi M'hamed al-Ayachi, declared the complete independence of the Republic of Sale from the Saadi central power in Marrakech. They expelled the Sherif's governor and ceased paying taxes to the government.
+![Republic of Sale](/sale-republic-of-sale.png)
+
+In 1927, the Moriscos, together with the Governor of Sale Sidi M'hamed al-Ayachi, declared the complete independence of the Republic of Sale from the Saadi central power in Marrakech. They expelled the Sherif's governor and ceased paying taxes to the government.
 
 During this period, the Republic of Sale gained international recognition as an independent republic, negotiating treaties with foreign countries and being governed by an elected Diwan comprising Hornachos and other Moriscos.
 
 Despite the influence exerted by the Zawiya Dila'iya, the Republic of Sale maintained its independence from any central government. However, this period of independence came to an end when Moulay Rashid, the Sultane who laid the foundation of the Alaouite Dynasty, defeated the Dilaites and brought an end to the republic's autonomy.
 
+![Sea View](/sale-sea-view.jpeg)
+
 > In Salé, the division of the spoils was much more communistic, and the regulation of behaviour was anarchistic, leading Lamborne Wilson to conclude that, though not a pure pirate utopia, ‘it was the only state ever founded on these principles’ (1995: 146) -- The Republic of Salé (1627–1641/1666); analternative pirate organization model?
 
-## The Renaissance
+## Back in order
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=107jhC1abxFoLRUybExe8CnbFzas819M&ehbc=2E312F" width="100%" height="480"></iframe>
 
+During the initial period of Alaouite rule, the prominence of Sale began to diminish in comparison to its sister city, Rabat, which experienced growth in population and expansion.
 
+Nevertheless, Sale maintained its spiritual significance and continued to serve as a hub for maritime jihad. It was during this time that Sale witnessed the arrival of its final group of revered saints, with Ahmed Hajji emerging as the most renowned and influential figure of the era and throughout the city's history.
+
+Ahmed Hajji was a Sufi scholar, Imam, and warrior, and he, along with his followers, defended Sale against foreign attacks.
+
+After Ahmed Hajji's passing, he was laid to rest in the Zaouia (religious complex) that he established. His descendants, including his children and grandchildren, carried on his teachings and continued his legacy, solidifying the Hajji Family's prominence in Sale.
+
+{{< figure src="/sale-sidi-ahmed-hajji.jpeg" title="Sidi Ahmed Hajji" >}}
+
+Presently, Ahmed Hajji is honored with a mosque bearing his name. Initially constructed at the request of Moulay Ismail, the mosque underwent renovations and a renaming process under the governance of the city governor, Abdelhaq Fennich. This recognition and dedication serve to commemorate Ahmed Hajji's contributions and ensure his enduring influence in the city.
+
+During the era of imperial Europe's ascendance, Sale, like other coastal cities in Morocco, faced military threats. In response, the Alaouite Sultanes renewed the city's defense system and established new fortifications.
+
+Under the rule of Moulay Ismail Ibn Sharif, the Gnawa's Kasbah was constructed in the northern part of the city, near Sidi Moussa's Mausoleum, to accommodate his military army known as "Abid Al-Boukhari." The Kasbah played a vital role in ensuring the safety of the Medina from external threats and quelling any rebellions or uprisings within the city.
+
+Moulay Ismail exerted control over the Slaoui fleet of corsairs, who operated from both Old Sale and the new Sale (now Rabat). These corsairs conducted raids in the Mediterranean and even as far as the Black Sea, capturing European Christian slaves and acquiring weapons. Moulay Ismail used the spoils of their piracy to establish significant diplomatic relations with foreign powers, particularly the Kingdom of France, Great Britain, and Spain.
+
+![Gnawa's Kasbah](/sale-gnawa-kasbah.jpeg)
+
+After a reign of 55 years over Morocco, Moulay Ismail passed away in Meknes, leaving the Sherifian Empire in a state of civil war due to a rebellion by the Abid Al-Boukhari, also known as the Black Guards. As a result, more than seven claimants vied for the throne and held power between 1727 and 1757.
+
+During this period, the Governor of Sale, Abdelhaq Fennich, refused to pledge allegiance to the central Sultanate and ruled the city independently for nearly 30 years (1738-1766). When Sidi Mohammed Ibn Abdullah ascended to power, he replaced Fennich and exiled his family. However, he later forgave them and appointed some of them to positions within the government.
+
+These events, coupled with the Lisbon earthquake of 1755 that reached Sale and caused damage, led to a decline in Sale's economic and trade importance in favor of the newly built city of Essaouira by Mohammed III.
+
+Nevertheless, Sidi Mohammed Ibn Abdellah revitalized the city walls, rebuilt the Eddoumoue Bastion, and constructed a sqala on the same wall. During his reign, Sale maintained its maritime specialty, and piracy was supported and used as a diplomatic tool, similar to how his grandfather, Moulay Ismail, had employed it.
+
+![New Sqala](/sale-new-sqala.jpeg)
+
+This marked the final period in the history of Sale's pirates, who employed over a thousand people from Sale and Rabat. During this time, many renowned Rais (Captains) emerged, including Rais Ahmed Aouad, his son Al-haj Al-Hachimi, and Rais Abdeslam Ben Mohammed Al-Alami Es-Slaoui.
+
+In 1817, Moulay Sulayman adopted a conservative policy and, in agreement with the French, disarmed the pirate ships, thus bringing an end to the era of Sale's pirates. He also relocated the Jewish community from the Old Mellah near Bab Ahssain to the new Mellah neighborhood near Bab Lamrissa.
+
+With the French threat increasing after the fall of Algeria under French occupation, Sale became one of the main lines of defense against French military assaults and played a significant role in the country's later independence.
+
+![Borj Eddoumoue](/sale-borj-eddoumoue.jpeg)
+
+## Conclusion
+Presently, Sale transcends its historical Medina, evolving into much more. It has emerged as the second most populous city in Morocco, following Casablanca, and has grown to become one of the country's largest urban centers.
+
+Despite the multitude of challenges faced by the people of Sale, they have remained steadfast and united throughout the trials and tribulations. In the face of ups and downs, they have clung to their cherished values of love, tolerance, and goodwill, which have been ingrained within them through their upbringing and the tales passed down through generations.
+
+Sale may find itself overshadowed on the economic and scientific stage. Yet, within its very essence, Sale possesses an enchanting spiritual character, a sublime aura that dances through its streets and lingers in the hearts of its inhabitants. It is a mystical realm, where the intangible whispers of divinity can be heard, a sanctuary of the soul found nowhere else but in the embrace of Sale.
+
+With love from Sale ❤️
+
+![Atlantic View](/sale-atlantic-view.jpeg)
