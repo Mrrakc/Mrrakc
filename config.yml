@@ -1,21 +1,62 @@
-
-baseURL: '/'
+baseURL: "/"
 languageCode: 'en-us'
 title: 'Mrrakc'
 theme: 'PaperMod'
+description: 'Sharing the love for Morocco with the world'
+
+
+minify:
+    disableXML: true
+    # minifyOutput: true
 
 menu:
   main:
-    - identifier: blog
-      name: blog
-      url: posts
+    - identifier: categories
+      name: Categories
+      url: /categories
       weight: -100
-    - identifier: locations
-      name: locations
-      url: locations
+    - identifier: regions
+      name: Regions
+      url: /regions
       weight: -90
+    - identifier: blog
+      name: Blog
+      url: /posts
+      weight: -80
 
 taxonomies:
   category: 'categories'
   tag: 'tags'
   region: 'regions'
+
+
+params:
+  title: "Mrrakc"
+  description: "Mrrakc: Sharing the love for Morocco with the world"
+  mainSections: ['posts']
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: Mrrakc
+    subtitle: "Mrrakc: Sharing the love for Morocco with the world"
+    imageUrl: 'mrrakc.jpg'
+    imageTitle: Mrrakc
+    buttons:
+      - name: Posts
+        url: 'posts'
+      - name: Locations
+        url: 'locations'
+
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B"
+  #   Content: Welcome to Mrrakc
+
+  socialIcons:
+    - name: twitter
+      url: 'https://twitter.com/i/communities/1580752662500298752'
+    - name: discord
+      url: 'https://discord.gg/kmUn4E8a'
+
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

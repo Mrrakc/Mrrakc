@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 author: []
-categories: []
+categories: "Mountains"
 regions: []
 tags: []
 gmaps: ""
@@ -13,7 +13,7 @@ cover:
 draft: true
 ---
 
-## Site Information
+## General Information
 
 | Range | Elevation | Difficulty |
 | --- | --- | --- |
